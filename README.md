@@ -3,9 +3,10 @@
 I am a published professional cartographer and data analyst with over 10 years of experience using ArcGIS, QGIS, GeoDa, Python, R and SAS in an academic and applied setting.  I’m interested in GIS, Environment, Spatial Analysis, Cartography, Urbanization, Coupled Human & Natural Systems, and Human / Physical Geography.  
 
 **Academic Interests:**
-Statistics and Data Visualization
-Contemporary Human-Environment Interactions
-Historical Human-Environment Interactions
+
+1. Statistics and Data Visualization
+2. Contemporary Human-Environment Interactions
+3. Historical Human-Environment Interactions
 
 You can reach me by e-mail at: chewitt6@uwo.ca.
 
