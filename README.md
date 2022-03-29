@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @GISConsultant87
-- 👀 I’m interested in GIS, Environment, Spatial Analysis, Cartography, Urbanization, Coupled Human & Natural Systems, and Physical / Human Geography.  I have training in specialized software and applications, including: ArcGIS, Google Earth Engine, GeoDa, Python, R, SAS, and Whitebox GAT.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by e-mail at: chewitt6@uwo.ca.
+**Principal Researcher:** Christopher Macdonald Hewitt, PhD. 
+
+I am a published professional cartographer and data analyst with over 10 years of experience using ArcGIS, QGIS, GeoDa, Python, R and SAS in an academic and applied setting.  I’m interested in GIS, Environment, Spatial Analysis, Cartography, Urbanization, Coupled Human & Natural Systems, and Human / Physical Geography.  
+
+**Academic Interests:**
+Statistics and Data Visualization
+Contemporary Human-Environment Interactions
+Historical Human-Environment Interactions
+
+You can reach me by e-mail at: chewitt6@uwo.ca.
 
 <!---
 GISConsultant87/GISConsultant87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
